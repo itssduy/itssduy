@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itssduy&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=itssduy&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itssduy&layout=compact&theme=tokyonight)
+
 <!--
 **itssduy/itssduy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
