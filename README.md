@@ -39,12 +39,13 @@
 </div>
 
 <hr>
-<!--
 <div align="center">
-  [![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=itssduy)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
+    
+![Top Languages](./profile/top-langs.svg)
+    
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)</div>
 </div>
--->
-
 
 <h2 align="center">Contact Me</h2>
 <div align="center">
