@@ -31,13 +31,13 @@ I'm Duy, a software engineer focused on cloud infrastructure, backend developmen
 
 <hr>
 
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
+</p>
+
 <h2 align="center">Contact Me</h2>
 <p align="center">
     <a href="mailto:duyatran05@gmail.com">duyatran05@gmail.com</a> · <a href="https://linkedin.com/in/duy-a-tran" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-</p>
-
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
 </p>
 
 <!--
