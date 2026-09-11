@@ -1,4 +1,7 @@
 <h1 align="center">Duy Tran</h1>
+<p align="center">
+    <a href="https://www.duyatran.com" target="_blank" rel="noopener noreferrer">duyatran.com</a>
+</p>
 
 <div align="center">
     <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
@@ -12,7 +15,9 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-    Computer Science student focused on cloud infrastructure, backend development, and full-stack engineering.
+    I'm Duy, a Computer Science student at the University of Louisiana at Lafayette with a concentration in Cloud Computing.
+    <br><br>
+    My work spans cloud infrastructure, backend development, and full-stack engineering, with a focus on AWS automation and AI agent systems. I like building things that are reliable, observable, and easy to operate at scale.
 </p>
 
 <hr>
