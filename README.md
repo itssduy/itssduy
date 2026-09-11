@@ -30,11 +30,6 @@ I'm Duy, a software engineer focused on cloud infrastructure, backend developmen
 </div>
 
 <hr>
-<div align="center">
-    
-![Stats](./profile/stats.svg)
-    
-</div>
 
 <h2 align="center">Contact Me</h2>
 <p align="center">
