@@ -1,11 +1,4 @@
 <h1 align="center">Hi there 👋 I'm Duy Tran</h1>
-<p align="center">
-    <a href="https://www.duyatran.com" target="_blank" rel="noopener noreferrer">duyatran.com</a>
-</p>
-
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
-</p>
 
 **Quick Introduction:**
 
@@ -15,7 +8,7 @@
 - ⚡ Fun fact: Steel Ball Run is my favorite manga
 
 ### 💫 About Me:
-I'm Duy, a software engineer focused on cloud infrastructure, backend development, and full-stack engineering, with an emphasis on AWS automation and AI agent systems. I like building things that are reliable, observable, and easy to operate at scale.
+I'm Duy, a software engineer focused on cloud infrastructure, backend development, and full-stack engineering, with a focus on AWS automation and AI agent systems. I like building things that are reliable, observable, and easy to operate at scale.
 
 <hr>
 
@@ -46,6 +39,10 @@ I'm Duy, a software engineer focused on cloud infrastructure, backend developmen
 <h2 align="center">Contact Me</h2>
 <p align="center">
     <a href="mailto:duyatran05@gmail.com">duyatran05@gmail.com</a> · <a href="https://linkedin.com/in/duy-a-tran" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+</p>
+
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
 </p>
 
 <!--
